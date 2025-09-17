@@ -105,7 +105,7 @@ If you find that installing essdk deb packages using `apt install` is too slow, 
 
 ## Download from network disk
 
-If you are unable to download images from GitHub and you are in China, you can try downloading them from [here](https://pan.baidu.com/s/1Ebrnrn-9Qrdd1hgf8scP1g?pwd=dvgs).
+If you are unable to download images from GitHub and you are in China, you can try downloading them from [here](https://pan.baidu.com/s/1gUJC8K_bSrhRO6P63BYV_w?pwd=p41j).
 
 ## Login to the board Using Serial Console
 
