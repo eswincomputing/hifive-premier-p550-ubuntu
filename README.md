@@ -7,7 +7,7 @@ Ubuntu Image releases for HIFIVE PREMIER P550 Board.
 - Based on Ubuntu 24.04.2 LTS.
 - Prebuilt Ubuntu image in compressed format named `dvb-ubuntu-24.04-preinstalled-server-riscv64.img.zst`.
 - Please ensure that the validated combination of the bootloader image and the Ubuntu image are flashed to the board. The release notes provide the version and validation details.
-- The latest images release is available [here](https://github.com/eswincomputing/hifive-premier-p550-ubuntu/releases/tag/2025.06.30).
+- The latest images release is available [here](https://github.com/eswincomputing/hifive-premier-p550-ubuntu/releases/tag/2025.07.30).
 
 ## Hardware preparation
 - One Type-C USB cable (for serial port monitor and uboot command)
@@ -101,7 +101,7 @@ Write progress:  87%:+++++++++++++++++++++++++++++++++++++++++++
 
 ### Essdk deb packeges install
 
-If you find that installing essdk deb packages using `apt install` is too slow, you can download the essdk and ffmpeg deb packages from essdk_ffmpeg_0630.zip [here](https://github.com/eswincomputing/hifive-premier-p550-ubuntu/releases/tag/2025.06.30) and install them by `dpkg -i XXXX.deb`.
+If you find that installing essdk deb packages using `apt install` is too slow, you can download the essdk and ffmpeg deb packages from essdk_ffmpeg_0630.zip [here](https://github.com/eswincomputing/hifive-premier-p550-ubuntu/releases/tag/2025.07.30) and install them by `dpkg -i XXXX.deb`.
 
 ## Download from network disk
 
