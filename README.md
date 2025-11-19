@@ -8,7 +8,8 @@ Ubuntu Image releases for HIFIVE PREMIER P550 Board.
 - Prebuilt Ubuntu image in compressed format named `dvb-ubuntu-24.04-preinstalled-server-riscv64.img.zst`.
 - Please ensure that the validated combination of the bootloader image and the Ubuntu image are flashed to the board. The release notes provide the version and validation details.
 - The latest images release is available [here](https://github.com/eswincomputing/hifive-premier-p550-ubuntu/releases/tag/2025.07.30).
-
+- Forum Usage Instructions is available [here](https://www.eswincomputing.com/community/h5/index.html#/detail?id=103).
+  
 ## Hardware preparation
 - One Type-C USB cable (for serial port monitor and uboot command)
 - One USB flash driver that at least 16G (image source)
