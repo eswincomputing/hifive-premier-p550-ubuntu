@@ -1,4 +1,4 @@
-# HHiFive Premier P550
+# HiFive Premier P550
 - Ubuntu Releases for HiFive Premier P550 Board.
 - Forum Usage Instructions is available [here](https://www.eswincomputing.com/community/h5/index.html#/detail?id=103).
 
